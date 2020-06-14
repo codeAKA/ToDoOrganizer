@@ -1,0 +1,13 @@
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.json
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.dev.json
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\xampp\htdocs\sites\ToDoOrganizer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
