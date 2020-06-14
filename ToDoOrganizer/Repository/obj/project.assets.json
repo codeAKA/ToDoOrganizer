@@ -341,6 +341,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0-preview.3.20181.2",
           "Microsoft.Extensions.Configuration.FileExtensions": "5.0.0-preview.4.20251.6",
           "Microsoft.Extensions.Configuration.Json": "5.0.0-preview.4.20251.6",

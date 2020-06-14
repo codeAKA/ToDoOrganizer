@@ -30,7 +30,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\xampp\\htdocs\\projects\\ToDoOrganizerAKA\\ToDoOrganizer\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\projects\\ToDoOrganizerAKA\\ToDoOrganizer\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

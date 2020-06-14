@@ -373,6 +373,22 @@
         "runtime": {
           "lib/netcoreapp3.0/System.Text.Json.dll": {}
         }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.0-preview.3.20181.2",
+          "Microsoft.Extensions.Configuration.FileExtensions": "5.0.0-preview.4.20251.6",
+          "Microsoft.Extensions.Configuration.Json": "5.0.0-preview.4.20251.6",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "5.0.0-preview3"
+        },
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
       }
     }
   },
@@ -1066,10 +1082,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0-preview.3.20181.2",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.0-preview.3.20181.2",
       "Microsoft.Extensions.Configuration.FileExtensions >= 5.0.0-preview.4.20251.6",
@@ -1107,7 +1129,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\xampp\\htdocs\\projects\\ToDoOrganizerAKA\\ToDoOrganizer\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\projects\\ToDoOrganizerAKA\\ToDoOrganizer\\Entities\\Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
